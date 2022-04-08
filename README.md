@@ -6,7 +6,7 @@
     <a href="https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 <details>
-    <summary>✨<h3>About Me</h3></summary><br/>
+    <summary><h3>About Me</h3> ✨</summary><br/>
   
   :computer: I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields. 
 
