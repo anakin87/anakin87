@@ -18,8 +18,7 @@ In my spare time:
 * I am part of a theatre group, I read, I watch films... :art:
 
 ### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/11144145828)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11144145828&cover_image=true&theme=novatorem&bar_color=634eb1&bar_color_cover=false)](https://open.spotify.com/user/11144145828)
 <br/>
 ---
 <!--
