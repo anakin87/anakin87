@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <hr/>
 <p align="left">
   <a href="https://www.linkedin.com/in/stefano-fiorucci-63522175/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -16,6 +17,11 @@ In my spare time:
 * I dedicate myself to social volunteering :star:
 * I am part of a theatre group, I read, I watch films... :art:
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/11144145828)
+<br/>
+---
 <!--
 **anakin87/anakin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
