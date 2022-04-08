@@ -5,8 +5,9 @@
   <a href="https://www.linkedin.com/in/stefano-fiorucci-63522175/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
-
-:computer: I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields. 
+<details>
+    <summary>✨<h3>About Me</h3></summary><br/>
+    :computer: I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields. 
 
 🔭 Currently, I deal with the design, development and deployment of systems based on machine learning models and other information retrieval tools for [01S](https://www.01s.it/).
 
@@ -16,6 +17,8 @@ In my spare time:
 * I often take meditative walks :walking:
 * I dedicate myself to social volunteering :star:
 * I am part of a theatre group, I read, I watch films... :art:
+</details>
+
 
 ### Now Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11144145828&cover_image=true&theme=novatorem&bar_color=634eb1&bar_color_cover=false)](https://open.spotify.com/user/11144145828)
