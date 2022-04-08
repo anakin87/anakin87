@@ -7,7 +7,8 @@
 </p>
 <details>
     <summary>✨<h3>About Me</h3></summary><br/>
-    :computer: I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields. 
+  
+  :computer: I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields. 
 
 🔭 Currently, I deal with the design, development and deployment of systems based on machine learning models and other information retrieval tools for [01S](https://www.01s.it/).
 
