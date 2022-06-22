@@ -2,8 +2,9 @@
 
 <hr/>
 <p align="left">
+   <a href="https://stefano-fiorucci.netlify.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-informational?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/stefano-fiorucci-63522175/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87/"><img alt="Stack Overflow" title="Stack Overflow"src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 <details>
     <summary><h3>About Me</h3> ✨</summary><br/>
