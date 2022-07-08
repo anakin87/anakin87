@@ -6,8 +6,8 @@
     <a href="https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87/"><img alt="Stack Overflow" title="Stack Overflow"src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
    <a href="https://stefano-fiorucci.netlify.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-informational?style=for-the-badge"></a>   
 </p>
-<details>
-    <summary><h3>About Me</h3> ✨</summary><br/>
+
+<h3>About Me</h3> ✨<br/>
   
   :computer: I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields. 
 
@@ -21,7 +21,6 @@ In my spare time:
 * I often take meditative walks :walking:
 * I dedicate myself to social volunteering :star:
 * I am part of a theatre group, I read, I watch films... :art:
-</details>
 
 
 ### Now Playing 🎧
