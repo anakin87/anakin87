@@ -7,7 +7,7 @@
    <a href="https://stefano-fiorucci.netlify.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-informational?style=for-the-badge"></a>   
 </p>
 
-<h3>About Me</h3> ✨<br/>
+<h3>About Me ✨</h3> <br/>
   
   :computer: I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields. 
 
