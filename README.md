@@ -4,13 +4,13 @@ I am Stefano, curious Machine learning Engineer, focused on NLP and Information 
 
 🔎 Exploring Semantic / Neural / Vector Search. Open Source contributor.
 
-<hr/>
 <p align="left">
   <a href="https://www.linkedin.com/in/stefano-fiorucci/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87/"><img alt="Stack Overflow" title="Stack Overflow"src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
    <a href="https://stefano-fiorucci.netlify.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-informational?style=for-the-badge"></a>   
 </p>
 
+<hr/>
 <h3>About Me ✨</h3> <br/>
   
   :computer: I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields. 
