@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Stefano, curious Machine learning Engineer, focused on NLP and Information Retrieval. 🔎 Exploring Semantic / Neural / Vector Search. Open Source contributor.
+
 <hr/>
 <p align="left">
   <a href="https://www.linkedin.com/in/stefano-fiorucci/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
