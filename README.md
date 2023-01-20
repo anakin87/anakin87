@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Stefano, curious Machine learning Engineer, focused on NLP and Information Retrieval. 🔎 Exploring Semantic / Neural / Vector Search. Open Source contributor.
+I am Stefano, curious Machine learning Engineer, focused on NLP and Information Retrieval.
+
+🔎 Exploring Semantic / Neural / Vector Search. Open Source contributor.
 
 <hr/>
 <p align="left">
