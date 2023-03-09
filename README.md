@@ -10,6 +10,8 @@ I am Stefano, curious Machine learning Engineer, focused on NLP and Information 
    <a href="https://stefano-fiorucci.netlify.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/portfolio-informational?style=for-the-badge"></a>   
 </p>
 
+📬 stefanofiorucci (at) gmail (dot) com
+
 <hr/>
 <h3>About Me ✨</h3> <br/>
   
