@@ -29,7 +29,7 @@ In my spare time:
 * I am part of a theatre group, I read, I watch films... :art:
 
 ### Upcoming talks 🎤
-* 2023-06-20 - [Fact Checking Rocks: how to build a fact-checking system](https://program.berlinbuzzwords.de/berlin-buzzwords-2023/talk/EAD8JD/) - Berlin Buzzword 2023 - Berlin
+* 2023-06-20 - [Fact Checking Rocks: how to build a fact-checking system](https://program.berlinbuzzwords.de/berlin-buzzwords-2023/talk/EAD8JD/) - Berlin Buzzwords 2023 - Berlin
 * 2023-05-27 - [Fact Checking Rocks! - How to build a fact checking system for rock music](https://pycon.it/en/event/fact-checking-rocks-how-to-build-a-fact-checking-system-for-rock-music) - PyCon Italy 2023 - Florence
 
 ### Now Playing 🎧
