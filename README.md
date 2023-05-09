@@ -28,6 +28,9 @@ In my spare time:
 * I dedicate myself to social volunteering :star:
 * I am part of a theatre group, I read, I watch films... :art:
 
+### Upcoming talks 🎤
+* 2023-06-20 - [Fact Checking Rocks: how to build a fact-checking system](https://program.berlinbuzzwords.de/berlin-buzzwords-2023/talk/EAD8JD/) - Berlin Buzzword 2023 - Berlin
+* 2023-05-27 - [Fact Checking Rocks! - How to build a fact checking system for rock music](https://pycon.it/en/event/fact-checking-rocks-how-to-build-a-fact-checking-system-for-rock-music) - PyCon Italy 2023 - Florence
 
 ### Now Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11144145828&cover_image=true&theme=novatorem&bar_color=634eb1&bar_color_cover=false)](https://open.spotify.com/user/11144145828)
