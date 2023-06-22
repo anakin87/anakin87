@@ -28,8 +28,8 @@ In my spare time:
 * I dedicate myself to social volunteering :star:
 * I am part of a theatre group, I read, I watch films... :art:
 
-### Upcoming talks 🎤
-* 2023-06-20 - [Fact Checking Rocks: how to build a fact-checking system](https://program.berlinbuzzwords.de/berlin-buzzwords-2023/talk/EAD8JD/) - Berlin Buzzwords 2023 - Berlin
+### Recent talks 🎤
+* 2023-06-20 - [Fact Checking Rocks: how to build a fact-checking system](https://www.youtube.com/watch?v=4L8Iw9CZNbU) - Berlin Buzzwords 2023 - Berlin
 
 
 ### Now Playing 🎧
