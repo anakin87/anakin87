@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am Stefano, curious Machine learning Engineer, focused on NLP and Information Retrieval.
-
-🔎 Exploring Semantic / Neural / Vector Search. Open Source contributor.
+I am Stefano, a passionate  NLP Engineer, Craftsman, and Explorer 🧭.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/stefano-fiorucci/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -15,13 +13,11 @@ I am Stefano, curious Machine learning Engineer, focused on NLP and Information 
 <hr/>
 <h3>About Me ✨</h3> <br/>
   
-  :computer: I have always cultivated a **passion** for scientific subjects and computer science. Starting with an engineering background, I attended a Professional Master's Programme in Data Science and, over time, I have gained a deep understanding of the **Machine Learning** and **NLP** fields. 
+💫 Structural Engineer turned Software Engineer with a **passion** for exploring the realms of Machine Learning and Natural Language Processing.
 
-From April 2018 to June 2023, I was responsible for the design, development and deployment of systems based on machine learning models and other information retrieval tools for [01S](https://www.01s.it/).
+🔍 Formerly at 01S for 5 years, I specialized in information extraction and retrieval from unstructured documents, making valuable information accessible to Italian citizens.
 
-:hearts: I love ML because it lies at the crossroads between programming craftsmanship and scientific research. I am fascinated by open problems. I am able to read and understand papers and combine ideas to create new solutions. I also enjoy turning prototypes into production-ready software so my work can have a **real impact** on people.
-
-I have successfully participated in some machine learning competitions and I like to contribute to open source…  
+💙 Currently, I am proud to be a part of deepset, contributing to Haystack, the open-source NLP/LLM Framework 🏗️. I enjoy engaging with a vibrant community of users and contributors.
   
 In my spare time:
 * I often take meditative walks :walking:
