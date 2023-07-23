@@ -17,7 +17,7 @@ I am Stefano, a passionate  NLP Engineer, Craftsman, and Explorer 🧭.
 
 🔍 Formerly at 01S for 5 years, I specialized in information extraction and retrieval from unstructured documents, making valuable information accessible to Italian citizens.
 
-💙 Currently, I am proud to be a part of deepset, contributing to [Haystack](https://github.com/deepset-ai/haystack), the open-source NLP/LLM Framework 🏗️. I enjoy engaging with a vibrant community of users and contributors.
+💙 Currently, I am proud to be part of deepset, contributing to [Haystack](https://github.com/deepset-ai/haystack), the open-source NLP/LLM Framework 🏗️. I enjoy engaging with a vibrant community of users and contributors.
   
 In my spare time:
 * I often take meditative walks :walking:
