@@ -2,6 +2,8 @@
 
 I am Stefano, a passionate  NLP Engineer, Craftsman, and Explorer 🧭.
 
+Contributing to [Haystack](https://github.com/deepset-ai/haystack), the LLM orchestration Framework.
+
 <p align="left">
   <a href="https://www.linkedin.com/in/stefano-fiorucci/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87/"><img alt="Stack Overflow" title="Stack Overflow"src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
@@ -15,7 +17,7 @@ I am Stefano, a passionate  NLP Engineer, Craftsman, and Explorer 🧭.
 
 🔍 Formerly at 01S for 5 years, I specialized in information extraction and retrieval from unstructured documents, making valuable information accessible to Italian citizens.
 
-💙 Currently, I am proud to be part of deepset, contributing to [Haystack](https://github.com/deepset-ai/haystack), the open-source NLP/LLM Framework 🏗️. I enjoy engaging with a vibrant community of users and contributors.
+💙 Currently, I am proud to be part of deepset, contributing to [Haystack](https://github.com/deepset-ai/haystack), the open-source LLM Framework 🏗️. I enjoy engaging with a vibrant community of users and contributors.
   
 In my spare time:
 * I often take meditative walks :walking:
