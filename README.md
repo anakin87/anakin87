@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
-- [🧪🦍 Information Extraction with open LLMs and Function Calling (post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-opensource-largelanguagemodels-activity-7143511665278447618-OKLW)
-- [LLM, Haystack and open-source: 🎙️ interview @ Pointer Podcast with Sara Zanzottera, in Italian 🇮🇹 (podcast)](https://pointerpodcast.it/p/pointer183-haystack-creare-llm-applications-in-modo-facile-con-stefano-fiorucci-e-sara-zanzottera/)
-- [📌 Collection of notebooks: using Mistral models with the Haystack LLM framework (post + repository)](https://www.linkedin.com/posts/stefano-fiorucci_mistral-haystack-rag-activity-7141116953464676352-ixkL)
-- [⛵ Navigating the LLM frameworks landscape: a comprehensive survey (post)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7133065998949134336-7tD5)
-- [⚗️ How to distill the capabilities of GPT-4 into smaller models? (Zephyr report) (post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-largelanguagemodels-nlp-activity-7129738807934885888-ADEX)
+- 🧪🦍 Information Extraction with open LLMs and Function Calling [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-opensource-largelanguagemodels-activity-7143511665278447618-OKLW)
+- LLM, Haystack and open-source: 🎙️ interview @ Pointer Podcast with Sara Zanzottera, in Italian 🇮🇹 [(podcast)](https://pointerpodcast.it/p/pointer183-haystack-creare-llm-applications-in-modo-facile-con-stefano-fiorucci-e-sara-zanzottera/)
+- 📌 Collection of notebooks: using Mistral models with the Haystack LLM framework [(post + repository)](https://www.linkedin.com/posts/stefano-fiorucci_mistral-haystack-rag-activity-7141116953464676352-ixkL)
+- ⛵ Navigating the LLM frameworks landscape: a comprehensive survey [(post)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7133065998949134336-7tD5)
+- ⚗️ How to distill the capabilities of GPT-4 into smaller models? (Zephyr report) [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-largelanguagemodels-nlp-activity-7129738807934885888-ADEX)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
