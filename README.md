@@ -7,7 +7,7 @@ Contributing to [Haystack](https://github.com/deepset-ai/haystack), the LLM orch
 <p align="left">
   <a href="https://www.linkedin.com/in/stefano-fiorucci/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87/"><img alt="Stack Overflow" title="Stack Overflow"src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-   <a href="https://stefano-fiorucci.netlify.app/"><img alt="website" title="website" src="https://img.shields.io/badge/💻-website-informational?style=for-the-badge&labelColor=blue"></a>   
+   <a href="https://stefano-fiorucci.netlify.app/"><img alt="Website" title="Website" src="https://img.shields.io/badge/💻-website-informational?style=for-the-badge&labelColor=blue"></a>   
 </p>
 
 <hr/>
