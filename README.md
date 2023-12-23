@@ -9,7 +9,7 @@ I am Stefano, a passionate  NLP Engineer, Craftsman, and Explorer 🧭.
 </p>
 
 <hr/>
-<details><summary><span style="font-size: 1.17em; font-weight:bold">About Me ✨</span></summary>
+<details><summary><strong>About Me ✨</strong></summary>
   
 💫 Structural Engineer turned Software Engineer with a **passion** for exploring the realms of Machine Learning and Natural Language Processing.
 
