@@ -27,7 +27,7 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
-- Can Language Models self-improve? 🏋️📈 [(post)](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-training-nlp-activity-7155109838581030912-WXsW)
+- Can Language Models self-improve? 🏋️📈 - Self-Rewarding Language Models paper [(post)](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-training-nlp-activity-7155109838581030912-WXsW)
 - 🦙 Ollama - Haystack integration [(post)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-rag-activity-7150444842001629186-xtQi)
 - 🦙 Ollama - beyond the surface (unpolished notes) 📝 [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-docker-largelanguagemodels-activity-7148948677154299904-dh0L)
 - 🇮🇹🇬🇧 Multilingual RAG from a 🎧 podcast [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-rag-activity-7148232270707937280-Pks_)
