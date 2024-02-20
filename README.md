@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 🗺️🧭 What's the best LLM inference solution for me? [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-largelanguagemodels-haystack-activity-7165624371682689025-wxPv)
 - 🧩🧩 Merging Language Models: what I learned [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-nlp-neuralnetworks-activity-7160185533627785217-RCRF)
 - Can Language Models self-improve? 🏋️📈 - Self-Rewarding Language Models paper [(post)](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-training-nlp-activity-7155109838581030912-WXsW)
 - 🦙 Ollama - Haystack integration [(post)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-rag-activity-7150444842001629186-xtQi)
 - 🦙 Ollama - beyond the surface (unpolished notes) 📝 [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-docker-largelanguagemodels-activity-7148948677154299904-dh0L)
-- 🇮🇹🇬🇧 Multilingual RAG from a 🎧 podcast [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-rag-activity-7148232270707937280-Pks_)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
