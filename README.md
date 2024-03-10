@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 🧭 Choosing an embedding inference solution [(post)](https://www.linkedin.com/posts/stefano-fiorucci_embedders-activity-7172645153139027968-FTvW)
+- LLMs 4 Devs: from 0 to your 1st LLM application @ Open Source Day [(talk + repository)](https://github.com/anakin87/llms4devs)
+- Haystack - an open framework for LLM applications: 🎙️ interview @ Intervista Pythonista with Massimiliano Pippi, in Italian 🇮🇹 [(podcast)](https://www.youtube.com/watch?v=HwhR1wb-0t4)
 - Zero-day experiments with Google Gemma 💎 [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7166102190183309312-uzI2)
 - 🗺️🧭 What's the best LLM inference solution for me? [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-largelanguagemodels-haystack-activity-7165624371682689025-wxPv)
-- 🧩🧩 Merging Language Models: what I learned [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-nlp-neuralnetworks-activity-7160185533627785217-RCRF)
-- Can Language Models self-improve? 🏋️📈 - Self-Rewarding Language Models paper [(post)](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-training-nlp-activity-7155109838581030912-WXsW)
-- 🦙 Ollama - Haystack integration [(post)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-rag-activity-7150444842001629186-xtQi)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
