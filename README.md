@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 🧪📑 From raw text to structured data with LLMs and function calling [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_information-extraction-llms-activity-7176243894475505664-jpzI)
 - 🧭 Choosing an embedding inference solution [(post)](https://www.linkedin.com/posts/stefano-fiorucci_embedders-activity-7172645153139027968-FTvW)
 - LLMs 4 Devs: from 0 to your 1st LLM application @ Open Source Day [(talk + repository)](https://github.com/anakin87/llms4devs)
 - Haystack - an open framework for LLM applications: 🎙️ interview @ Intervista Pythonista with Massimiliano Pippi, in Italian 🇮🇹 [(podcast)](https://www.youtube.com/watch?v=HwhR1wb-0t4)
 - Zero-day experiments with Google Gemma 💎 [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7166102190183309312-uzI2)
-- 🗺️🧭 What's the best LLM inference solution for me? [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-largelanguagemodels-haystack-activity-7165624371682689025-wxPv)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
