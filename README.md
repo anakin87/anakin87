@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 🦙📱 Running Small Language Models on a cheap smartphone [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-genai-edgecomputing-activity-7183365537618411520-PU2s)
+- 💎 gemma-2b-orpo-GGUF. Thoughts on quantization. [(post + model)](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-nlp-llm-activity-7183003138419744768-8BFI)
 - 💎 gemma-2b-orpo: a Small Language Model trained with ORPO [(post + model + notebooks)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7178324369528471552-DCr3)
 - 🧪📑 From raw text to structured data with LLMs and function calling [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_information-extraction-llms-activity-7176243894475505664-jpzI)
 - 🧭 Choosing an embedding inference solution [(post)](https://www.linkedin.com/posts/stefano-fiorucci_embedders-activity-7172645153139027968-FTvW)
-- LLMs 4 Devs: from 0 to your 1st LLM application @ Open Source Day [(talk + repository)](https://github.com/anakin87/llms4devs)
-- Haystack - an open framework for LLM applications: 🎙️ interview @ Intervista Pythonista with Massimiliano Pippi, in Italian 🇮🇹 [(podcast)](https://www.youtube.com/watch?v=HwhR1wb-0t4)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
