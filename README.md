@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 🔎 Sparse Embedding Retrieval in Haystack [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-informationretrieval-nlp-activity-7190716915072299009-POI3)
+- Playing with 🦙 Llama 3 (RAG about Oscar night 🎬) [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-llama-activity-7187101027047813120-d7Tx)
 - 🦙📱 Running Small Language Models on a cheap smartphone [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-genai-edgecomputing-activity-7183365537618411520-PU2s)
 - 💎 gemma-2b-orpo-GGUF. Thoughts on quantization. [(post + model)](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-nlp-llm-activity-7183003138419744768-8BFI)
 - 💎 gemma-2b-orpo: a Small Language Model trained with ORPO [(post + model + notebooks)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7178324369528471552-DCr3)
-- 🧪📑 From raw text to structured data with LLMs and function calling [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_information-extraction-llms-activity-7176243894475505664-jpzI)
-- 🧭 Choosing an embedding inference solution [(post)](https://www.linkedin.com/posts/stefano-fiorucci_embedders-activity-7172645153139027968-FTvW)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
