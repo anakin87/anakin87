@@ -37,7 +37,7 @@ In my spare time:
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
 
 ### Now Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11144145828&cover_image=true&theme=novatorem&bar_color=634eb1&bar_color_cover=false)](https://open.spotify.com/user/11144145828)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11144145828&cover_image=true&theme=novatorem&bar_color=634eb1&bar_color_cover=false)](https://open.spotify.com/user/11144145828)
 <br/>
 ---
 <!--
