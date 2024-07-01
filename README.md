@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 🎤 yo-Llama 🦙: altering the behavior of a LLM by amplifying a feature direction in the activation space [(post + model + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_llm-interpretability-genai-activity-7213443953486925824-bxfg)
 - 🌌 Creating adventures with local LLMs: llamafile + Character Codex [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7211717437388460033-m6bS)
 - RAG Evaluation with 🔥 Prometheus 2 [(blog post + notebook)](https://haystack.deepset.ai/blog/rag-evaluation-with-prometheus-2)
 - ⚙️ Prompt Optimization with Haystack + DSPy [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-promptengineering-llm-activity-7204022134124220416-btCr)
 - LLaMantino 3:  a good 🇮🇹 Italian Language Model [(post)](https://www.linkedin.com/posts/stefano-fiorucci_swap-uniballamantino-3-anita-8b-inst-dpo-ita-activity-7198223428422643713-Bqfz)
-- 🧑‍🏫 AutoQuizzer: create a quiz from a URL and play/let the LLM play [(post + demo)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7196811317951770624-vhPa)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
