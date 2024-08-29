@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 💬🇮🇹 Phi 3.5 mini ITA: my Italian Small Language Model [(post + model + demo)](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7234864629670150145-pIHx)
+- 📝 Fine-tuning LLMs: what I've learned [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7233821572027846658-LowT)
 - 🗂️⛏️ Structured data extraction with Small Language Models [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-opensource-llm-activity-7225079608625266688-QVr8)
 - 🌉 Introduction to mechanistic interpretability of LLMs [(post)](https://www.linkedin.com/posts/stefano-fiorucci_interpretability-gemma-largelanguagemodels-activity-7224679002207100929-asSk)
 - 🔎 BM42: a new ranking algorithm for hybrid RAG [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-rag-informationretrieval-activity-7214561252361007105-4nSi)
-- 🎤 yo-Llama 🦙: altering the behavior of a LLM by amplifying a feature direction in the activation space [(post + model + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_llm-interpretability-genai-activity-7213443953486925824-bxfg)
-- 🌌 Creating adventures with local LLMs: llamafile + Character Codex [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-llm-largelanguagemodels-activity-7211717437388460033-m6bS)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
