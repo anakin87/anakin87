@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 🎯 Selective fine-tuning of Language Models with Spectrum + TRL [(tutorial)](https://huggingface.co/blog/anakin87/spectrum)
 - 💬🇮🇹 Phi 3.5 mini ITA: my Italian Small Language Model [(post + model + demo)](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7234864629670150145-pIHx)
 - 📝 Fine-tuning LLMs: what I've learned [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7233821572027846658-LowT)
 - 🗂️⛏️ Structured data extraction with Small Language Models [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-opensource-llm-activity-7225079608625266688-QVr8)
 - 🌉 Introduction to mechanistic interpretability of LLMs [(post)](https://www.linkedin.com/posts/stefano-fiorucci_interpretability-gemma-largelanguagemodels-activity-7224679002207100929-asSk)
-- 🔎 BM42: a new ranking algorithm for hybrid RAG [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-rag-informationretrieval-activity-7214561252361007105-4nSi)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
