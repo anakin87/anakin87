@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- Create a 📰 Newsletter Agent with Haystack Tools 🛠️ [(notebook + video)](https://haystack.deepset.ai/cookbook/newsletter-agent)
+- 🧰 From my toolbox: 💬 Chat Template Viewer [(post)](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-llm-transformers-activity-7249000383358877697-cFvW)
 - 🕵🏻 Agentic RAG with 🦙 Llama 3.2 3B [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_rag-haystack-llama-activity-7244981783006433280-hJqX)
 - 🎯 Selective fine-tuning of Language Models with Spectrum + TRL [(tutorial)](https://huggingface.co/blog/anakin87/spectrum)
 - 💬🇮🇹 Phi 3.5 mini ITA: my Italian Small Language Model [(post + model + demo)](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7234864629670150145-pIHx)
-- 📝 Fine-tuning LLMs: what I've learned [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7233821572027846658-LowT)
-- 🗂️⛏️ Structured data extraction with Small Language Models [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-opensource-llm-activity-7225079608625266688-QVr8)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
