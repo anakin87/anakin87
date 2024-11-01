@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 👩‍🏫 Banks (Python library): a Swiss Army Knife for prompting [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-prompting-opensource-activity-7257674053690265601-30qh)
 - 🇮🇹🇯🇵🇧🇷 Generating multilingual instruction datasets with Magpie 🐦‍⬛ [(article + notebook)](https://huggingface.co/blog/anakin87/multilingual-magpie)
 - Create a 📰 Newsletter Agent with Haystack Tools 🛠️ [(notebook + video)](https://haystack.deepset.ai/cookbook/newsletter-agent)
 - 🧰 From my toolbox: 💬 Chat Template Viewer [(post)](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-llm-transformers-activity-7249000383358877697-cFvW)
 - 🕵🏻 Agentic RAG with 🦙 Llama 3.2 3B [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_rag-haystack-llama-activity-7244981783006433280-hJqX)
-- 🎯 Selective fine-tuning of Language Models with Spectrum + TRL [(tutorial)](https://huggingface.co/blog/anakin87/spectrum)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
