@@ -27,11 +27,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 🐝🐝🐝 A Swarm of Agents with Llama 3.2, GPT-4o mini and Claude 3.5 Sonnet [(post + article + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-haystack-llm-activity-7267175398898028544-yuUt)
+- Tülu 3: a massive work in open LM post-training [(post)](https://www.linkedin.com/posts/stefano-fiorucci_ai2-just-published-a-massive-work-on-%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-activity-7265449762496126978-4roj)
 - 🔮 Decoding strategies and the future of Language Models [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-genai-activity-7262058281752219648-kGhG)
 - 👩‍🏫 Banks (Python library): a Swiss Army Knife for prompting [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-prompting-opensource-activity-7257674053690265601-30qh)
 - 🇮🇹🇯🇵🇧🇷 Generating multilingual instruction datasets with Magpie 🐦‍⬛ [(article + notebook)](https://huggingface.co/blog/anakin87/multilingual-magpie)
-- Create a 📰 Newsletter Agent with Haystack Tools 🛠️ [(notebook + video)](https://haystack.deepset.ai/cookbook/newsletter-agent)
-- 🧰 From my toolbox: 💬 Chat Template Viewer [(post)](https://www.linkedin.com/posts/stefano-fiorucci_largelanguagemodels-llm-transformers-activity-7249000383358877697-cFvW)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
