@@ -1,28 +1,27 @@
 ### Hi there 👋
 
-I am Stefano, a passionate  NLP Engineer, Craftsman, and Explorer 🧭.
+I am Stefano, a passionate AI/NLP/Software Engineer.
 
-Contributing to [Haystack](https://github.com/deepset-ai/haystack), the LLM orchestration Framework.
+I like to contribute to open source and share what I learn.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/stefano-fiorucci/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87/"><img alt="Stack Overflow" title="Stack Overflow"src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-   <a href="https://stefano-fiorucci.netlify.app/"><img alt="Website" title="Website" src="https://img.shields.io/badge/💻-website-informational?style=for-the-badge&labelColor=blue"></a>   
+    <a href="https://stackoverflow.com/users/10883094/stefano-fiorucci-anakin87/"><img alt="Stack Overflow" title="Stack Overflow"src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>  
 </p>
 
 <hr/>
 <details><summary><strong>About Me ✨</strong></summary>
   
-💫 Structural Engineer turned Software Engineer with a **passion** for exploring the realms of Machine Learning and Natural Language Processing.
+💫 Software Engineer with a passion for Language Models, open source and knowledge sharing.
 
-🔍 Formerly at 01S for 5 years, I specialized in information extraction and retrieval from unstructured documents, making valuable information accessible to Italian citizens.
+🔍 Previously at 01S, I specialized in information extraction and retrieval from unstructured documents, making valuable information accessible to Italian citizens.
 
-💙 Currently, I am proud to be part of deepset, contributing to [Haystack](https://github.com/deepset-ai/haystack), the open-source LLM Framework 🏗️. I enjoy engaging with a vibrant community of users and contributors.
+👨‍💻 Now at deepset, I contribute to [Haystack](https://github.com/deepset-ai/haystack), an open-source LLM framework and its ecosystem. I enjoy engaging with the community and sharing what I learn and spend time working on.
   
 In my spare time:
 * I often take meditative walks :walking:
 * I dedicate myself to social volunteering :star:
-* I am part of a theatre group, I read, I watch films... :art:
+* I listen to music, read, watch movies... :art:
 </details>
 
 ### Recent content 🧪📚🎮
