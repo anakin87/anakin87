@@ -26,11 +26,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- New Italian preference dataset  🇮🇹👍👎 [(post + dataset)]( https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-llm-activity-7287831746325192704-jp0T)
+- 🈯🦙 Translate instruction datasets using a LLM + LLM as a Judge 🧑‍⚖️ (cheap recipe) [(post + notebook + dataset)](https://www.linkedin.com/posts/stefano-fiorucci_gemma-llm-activity-7287113366572068865-B_-z)
+- 🤏 New Italian Small Language Models: Neogenesis collection [(post + models)]( https://www.linkedin.com/posts/stefano-fiorucci_gemma-gemmaverse-llm-activity-7286017834734788608-9a_Q)
+- 💎🌍🇮🇹 Gemma Neogenesis - Improving Gemma 2 for a Specific Language on a Budget: Post-Training Recipe [(notebook   )](https://www.kaggle.com/code/anakin87/post-training-gemma-for-italian-and-beyond)
 - 🎄 Christmas Challenge: 🤖 build an Agent to manage Santa's Inventory 🎅 [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_adventofhaystack-haystack-agent-activity-7275154243139895297-HwJn)
-- 🐝🐝🐝 A Swarm of Agents with Llama 3.2, GPT-4o mini and Claude 3.5 Sonnet [(post + article + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-haystack-llm-activity-7267175398898028544-yuUt)
-- Tülu 3: a massive work in open LM post-training [(post)](https://www.linkedin.com/posts/stefano-fiorucci_ai2-just-published-a-massive-work-on-%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-activity-7265449762496126978-4roj)
-- 🔮 Decoding strategies and the future of Language Models [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-genai-activity-7262058281752219648-kGhG)
-- 👩‍🏫 Banks (Python library): a Swiss Army Knife for prompting [(post)](https://www.linkedin.com/posts/stefano-fiorucci_llm-prompting-opensource-activity-7257674053690265601-30qh)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
