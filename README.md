@@ -26,11 +26,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
-- New Italian preference dataset  🇮🇹👍👎 [(post + dataset)]( https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-llm-activity-7287831746325192704-jp0T)
+- 😩 Struggling with QLoRA? Give Spectrum a try! [(post + tutorial)](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7292546778480959488-8nxA)
+- 🧬 Use Language Model responses to improve it [(post + dataset)](https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-largelanguagemodels-activity-7290004855606202371-uH2d)
+- New Italian preference dataset  🇮🇹👍👎 [(post + dataset)](https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-llm-activity-7287831746325192704-jp0T)
 - 🈯🦙 Translate instruction datasets using a LLM + LLM as a Judge 🧑‍⚖️ (cheap recipe) [(post + notebook + dataset)](https://www.linkedin.com/posts/stefano-fiorucci_gemma-llm-activity-7287113366572068865-B_-z)
 - 🤏 New Italian Small Language Models: Neogenesis collection [(post + models)]( https://www.linkedin.com/posts/stefano-fiorucci_gemma-gemmaverse-llm-activity-7286017834734788608-9a_Q)
-- 💎🌍🇮🇹 Gemma Neogenesis - Improving Gemma 2 for a Specific Language on a Budget: Post-Training Recipe [(notebook   )](https://www.kaggle.com/code/anakin87/post-training-gemma-for-italian-and-beyond)
-- 🎄 Christmas Challenge: 🤖 build an Agent to manage Santa's Inventory 🎅 [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_adventofhaystack-haystack-agent-activity-7275154243139895297-HwJn)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
