@@ -26,11 +26,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
-- 😩 Struggling with QLoRA? Give Spectrum a try! [(post + tutorial)](https://www.linkedin.com/posts/stefano-fiorucci_llm-finetuning-transformers-activity-7292546778480959488-8nxA)
-- 🧬 Use Language Model responses to improve it [(post + dataset)](https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-largelanguagemodels-activity-7290004855606202371-uH2d)
-- New Italian preference dataset  🇮🇹👍👎 [(post + dataset)](https://www.linkedin.com/posts/stefano-fiorucci_gemma-finetuning-llm-activity-7287831746325192704-jp0T)
-- 🈯🦙 Translate instruction datasets using a LLM + LLM as a Judge 🧑‍⚖️ (cheap recipe) [(post + notebook + dataset)](https://www.linkedin.com/posts/stefano-fiorucci_gemma-llm-activity-7287113366572068865-B_-z)
-- 🤏 New Italian Small Language Models: Neogenesis collection [(post + models)]( https://www.linkedin.com/posts/stefano-fiorucci_gemma-gemmaverse-llm-activity-7286017834734788608-9a_Q)
+- 🛡️ AI Guardrails with Open Language Models - Tutorial [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-safety-genai-activity-7346534530503061506-07Tk)
+- 🧰 Free up space on the Hugging Face Hub with super_squash_history 🧹 [(post)](https://www.linkedin.com/posts/stefano-fiorucci_machinelearning-transformers-largelanguagemodels-activity-7345453621242658816-HxF_)
+- 🐍 My adventure at PyCon Italy 2025 [(post + talk + repository)](https://www.linkedin.com/posts/stefano-fiorucci_3-weeks-ago-i-had-a-great-time-at-pycon-italia-activity-7343210124963950592-IySN)
+- Supervised Fine-Tuning vs Preference Alignment: Who does what in Post-Training? [(post)](https://www.linkedin.com/posts/stefano-fiorucci_supervised-fine-tuning-vs-preference-alignment-activity-7336387729569505283-xfAQ)
+- 📝 GRPO: what I've learned [(post)](https://www.linkedin.com/posts/stefano-fiorucci_grpo-llm-finetuning-activity-7328771028245958658-zj6-)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
