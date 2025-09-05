@@ -26,11 +26,11 @@ In my spare time:
 
 ### Recent content 🧪📚🎮
 <!--content start-->
+- 🌀 Exploring Environments Hub: a community place to share RL environments [(article)](https://huggingface.co/blog/anakin87/environments-hub)
+- 🕵️🌐 Browser Agents with Gemini and Playwright MCP server [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_agent-haystack-llm-activity-7361395954396073984-pVdH)
 - 👀 Image support in Haystack [(post + tutorials)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-largelanguagemodels-multimodality-activity-7359163582711836674-LXuL)
 - 🧪 Mergenetic: evolutionary model merging for all [(post)](https://www.linkedin.com/posts/stefano-fiorucci_%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B4%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0-%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%BC%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC-activity-7355905429102592000-mjSL)
 - 🛡️ AI Guardrails with Open Language Models - Tutorial [(post + notebook)](https://www.linkedin.com/posts/stefano-fiorucci_haystack-safety-genai-activity-7346534530503061506-07Tk)
-- 🧰 Free up space on the Hugging Face Hub with super_squash_history 🧹 [(post)](https://www.linkedin.com/posts/stefano-fiorucci_machinelearning-transformers-largelanguagemodels-activity-7345453621242658816-HxF_)
-- 🐍 My adventure at PyCon Italy 2025 [(post + talk + repository)](https://www.linkedin.com/posts/stefano-fiorucci_3-weeks-ago-i-had-a-great-time-at-pycon-italia-activity-7343210124963950592-IySN)
 <!--content end-->
 
 [Explore my content collection 🧩🧩🧩](https://github.com/anakin87/content-collection)
